@@ -1,7 +1,7 @@
 # Setup
 title:        Jackralf's Pages
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      "https://jackralf.github.io"
+tagline:      
+baseurl:      ""
 paginate:     1
 
 # About/contact
