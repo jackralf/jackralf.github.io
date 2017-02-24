@@ -7,10 +7,10 @@ categories: main
 
 ## hello world!
 
-{% highlight java %}
+{% highlight java linenos %}
 System.out.println("hello world");
 {% endhighlight %}
 
-{% highlight c++ %}
+{% highlight cpp linenos %}
 std::cout << "hello world" << std::endl;
 {% endhighlight %}

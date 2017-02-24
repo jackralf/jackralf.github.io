@@ -2,7 +2,7 @@
 title:        Jackralf's Pages
 tagline:      
 baseurl:      ""
-paginate:     1
+paginate:     10
 
 # About/contact
 author:
