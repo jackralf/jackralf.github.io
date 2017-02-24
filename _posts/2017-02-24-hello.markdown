@@ -6,8 +6,6 @@ categories: main
 comments: true
 ---
 
-## hello world!
-
 java
 {% highlight java %}
 System.out.println("hello world");
