@@ -7,11 +7,11 @@ categories: main
 
 ## hello world!
 
-{% highlight java linenos %}
+{% highlight java %}
 System.out.println("hello world");
 {% endhighlight %}
 
-{% highlight c++ linenos %}
+{% highlight c++ %}
 ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
     ListNode *node = nullptr;
     ListNode *iter = nullptr;
